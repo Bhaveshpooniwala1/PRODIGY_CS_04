@@ -49,7 +49,7 @@ A cross-platform educational keylogger built with Python that demonstrates:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/educational-keylogger.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_04.git
 cd educational-keylogger
 
 # 2. Create virtual environment (recommended)
@@ -67,7 +67,7 @@ python keylogger.py
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/educational-keylogger.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_04.git
 cd educational-keylogger
 
 # 2. Create virtual environment (recommended)
@@ -233,7 +233,7 @@ git init
 git add .
 git commit -m "Initial commit: Educational keylogger project"
 git branch -M main
-git remote add origin https://github.com/yourusername/educational-keylogger.git
+git remote add origin https://github.com/Bhaveshpooniwala1/PRODIGY_CS_04.git
 git push -u origin main
 ```
 
@@ -275,8 +275,8 @@ This software is provided for **educational purposes only**. The author and cont
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Bhaveshpooniwala1)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/bhavesh-pooniwala/)
 
 ## 🙏 Acknowledgments
 
